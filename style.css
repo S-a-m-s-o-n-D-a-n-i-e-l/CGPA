@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+#head
+{
+    background-color: blanchedalmond;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    /* margin-left: 40px; */
+    padding-left: 470px;
+    padding-top:15px;
+    font-size: 30px;
+    height: 50px;
+    border: 2px solid black;
+}
+#lin
+{
+    padding-left: 350px;
+}
+#one{
+    margin-top: 1px;
+    margin-bottom: 2px;
+    font-size:20px;
+    background-color: azure;
+}
+#ipu1{
+    margin-top: 20px;
+    width: 200px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+#but1
+{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+#main
+{
+    margin-top: 10px;
+    height: 520px;
+    background-color:wheat;
+    border: 2px solid black;
+}
+#butto1
+{
+    margin-top: 5px;
+    margin-left: 60px;
+    
+}
+#main > select
+{
+    margin-left: 10px;
+}
+#main > input
+{
+    margin-left: 10px;
+}
+#main > label
+{
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.crank
+{
+    margin-top: 40px;
+}
+
