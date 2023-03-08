@@ -39,12 +39,10 @@ function Oncick()
     var but=document.createElement("button");
     but.setAttribute("id","butto1");
     but.textContent="Calculate";
-    // but.appendChild(atag);
     but.setAttribute("type","submit");
     but.setAttribute("onclick","calculate()");
     document.getElementById("main").appendChild(brek);
     document.getElementById("main").appendChild(but);
-    // x=0;
 }
 var b=document.createElement("label");
 function calculate()
@@ -64,5 +62,4 @@ function calculate()
     b.setAttribute("class","crank");
     document.getElementById("main").appendChild(b);
     temp=0;
-    // alert(m);
 }
